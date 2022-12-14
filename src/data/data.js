@@ -9,13 +9,13 @@ import Pic2 from '../assets/img/small-pic2.png';
 import Pic3 from '../assets/img/small-pic3.jpg';
 
 export default [
-    {
-      title: "Remember",
-      artist: "Alexandra Milea",
-      image: Pic3,
-      audioSrc: music1,
-      bg: "url(https://picsum.photos/300?grayscale&blur=5&random=1)"
-    },
+    // {
+    //   title: "Remember",
+    //   artist: "Alexandra Milea",
+    //   image: Pic3,
+    //   audioSrc: music1,
+    //   bg: "url(https://picsum.photos/300?grayscale&blur=5&random=1)"
+    // },
     {
       title: "Follow Your Dream",
       artist: "Alexandra Milea",
