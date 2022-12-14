@@ -1,7 +1,7 @@
 import music1 from '../assets/music/alexandra-remember.mp3';
 import music2 from '../assets/music/alexandra-follow-your-dream.mp3';
-import music3 from '../assets/music/tomas-face-me.m4a';
-import music4 from '../assets/music/nicolas_endless_story.m4a';
+import music3 from '../assets/music/tomas-face-me.mp3';
+import music4 from '../assets/music/nicolas_endless_story.mp3';
 
 // Pic1, Pic2, Pic3
 import Pic1 from '../assets/img/small-pic1.jpg';
