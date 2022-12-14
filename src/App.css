@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Bonheur+Royale&display=swap");
+
+:root {
+  --active-bg: url('./assets/bg-image.avif');
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100vh;
+  background: no-repeat center/cover var(--active-bg);
+  transition: background 0.2s ease;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  width: 9px;
+  -webkit-appearance: none;
+  appearance: none;
+  height: 9px;
+  cursor: pointer;
+  background: red;
+  box-shadow: -405px 0 0 400px #605e5c;
+  border-radius: 50%;
+}
+
+.about-us {
+  background-color:#fff;
+}
